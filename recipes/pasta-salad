@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome Pasta Salad</title>
+</head>
+<body>
+    <a href="../index.html">Home</a>
+    <h1>
+        <p>
+            Awesome Pasta Salad
+        </p>
+        <p>
+            <img src="https://www.allrecipes.com/thmb/SeWlTwfDu-m8Pka9ejpIRnfVnGk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/52734-awesome-pasta-salad-DDMFS-4x3-c8a1726b60334919bacec53bd10c3f1a.jpg">
+        </p>
+    </h1>
+    <h2>Description</h2>
+    <p>
+        This pasta salad with pepperoni, 
+        tomatoes, and provolone cheese is the 
+        best I've ever eaten, and people request it frequently. 
+        It's a very easy, light-tasting side dish for a picnic or dinner.
+    </p>
+    <h3>Ingredients</h3>
+    <ul>
+        <li>Pasta</li>
+        <li>Cherry tomatoes</li>
+        <li>Provolone cheese</li>
+        <li>Salami</li>
+        <li>pepperoni</li>
+        <li>Bell perper</li>
+        <li>Black olives</li>
+        <li>Pimentos</li>
+        <li>Sald dressing</li>
+    </ul>
+    <h4>Steps</h4>
+    <ol>
+        <li>Gather all ingredients.</li>
+        <li>Bring a large pot of lightly salted water to a boil. Cook fusilli pasta in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain.</li>
+        <li>Combine pasta with tomatoes, cheese, salami, pepperoni, green pepper, olives, and pimentos in a large bowl. Pour in salad dressing; toss to coat.</li>
+        <li>Enjoy!</li>
+    </ol>
+
+</body>
+</html>
