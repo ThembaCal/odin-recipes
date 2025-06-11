@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(196, 242, 242);
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+    font-weight:  bold;
+    font-size: 32px;
+}
+
+/* Example: Adjust layout for screens under 768px wide */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+}
